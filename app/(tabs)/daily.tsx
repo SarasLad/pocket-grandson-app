@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react';
 import { View, Text, ScrollView, TouchableOpacity, StyleSheet, Platform } from 'react-native';
 import { Heart, Brain } from 'lucide-react-native';
 
+// 
+
 const tips = [
   {
     type: 'health',
